@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Hope 
 
-<!--
-**hopeeiscoding/hopeeiscoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Full-Stack Web Developer  
+Johannesburg, South Africa  
+Passionate about building clean and functional web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Tech Stack
+
+- Frontend: HTML, CSS, JavaScript  
+- Backend: Python (Flask, Django)  
+- Database: MySQL, SQLAlchemy  
+- Tools: Git, XAMPP  
+
+---
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+##  Projects
+
+### ShopEasy Web App
+A full-stack shopping list application with authentication and CRUD features.
+
+ Live Demo: https://your-render-link.onrender.com  
+ GitHub: https://github.com/hopeeiscoding/ShopEasy-web-app  
+
+---
+
+##  Contact Me
+
+- Email: youremail@gmail.com  
+- GitHub: https://github.com/hopeeiscoding  
+- LinkedIn: https://www.linkedin.com/  
+
+---
+
+Always learning and building new projects!<!--
+**hopeeiscoding/hopeeiscoding** is a  _special_  repository because its `README.md`.
+
+
