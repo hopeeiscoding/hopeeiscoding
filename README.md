@@ -32,13 +32,13 @@ A full-stack shopping list application with authentication and CRUD features.
 
 ##  Contact Me
 
-- Email: youremail@gmail.com  
+- Email: hopesethibang@gmail.com 
 - GitHub: https://github.com/hopeeiscoding  
-- LinkedIn: https://www.linkedin.com/  
+- LinkedIn: www.linkedin.com/in/hope-sethibang-551338265
 
 ---
 
 Always learning and building new projects!<!--
-**hopeeiscoding/hopeeiscoding** is a  _special_  repository because its `README.md`.
+
 
 
